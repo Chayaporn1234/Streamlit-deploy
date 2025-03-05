@@ -2,3 +2,5 @@ streamlit as st
 pandas as pd
 numpy as np
 matplotlib
+sys
+matplotlib.pyplot.as.plt
